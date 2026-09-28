@@ -1,3 +1,0 @@
-Author: Nova Wolta
-Purpose: A fan website for the game Hunt: Showdown 1896 meant to act as a wiki for game tips and mechanics.
-External Sources: Google Fonts, BootStarp 5 & Font Awesome Snippets Extension for Vs Code, The Offical Hunt Showdown Fan Kit, Hunt Showdown Wiki, Offical Hunt Showdown Website, "Git LFS with GitHub Pages: A Practical Guide, By Zihao Fu" YouTube: "JustMatt: My Problem With Hunt: Showdown" "BrotatoChip117: Hunt Handbook: Ammo", "hunt.kamille.ovh and huntshowdown.wiki.gg for the map images"

@@ -187,8 +187,6 @@ input[type=submit] {
 
 input[type=submit]:hover {
 
-    border: solid #b8860b;
-
     text-decoration: underline;
 
 }
@@ -200,8 +198,6 @@ input[type=reset] {
 }
 
 input[type=reset]:hover {
-
-    border: solid #b8860b;
 
     text-decoration: underline;
     
@@ -221,7 +217,7 @@ textarea {
 textarea::placeholder {
 
     color: #ffffff;
-    
+
 }
 
 .ammo-container {

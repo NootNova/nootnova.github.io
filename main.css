@@ -90,6 +90,24 @@ h2, h3, h4, h5, h6 {
 
 }
 
+ol, li {
+
+        margin-left: 6px;
+
+    color: #ffffff;
+
+    text-shadow: 
+    -2px -2px #0d0d0d,
+    2px -2px #0d0d0d,
+    -2px 2px #0d0d0d,
+    2px 2px #0d0d0d;
+
+    font-size: 120%;
+
+    line-height: 150%;
+
+}
+
 /* using the display flex and flex direction column on both the html and body elements I am able to push the footer down to the bottom of short pages using felx 1 on the main */
 
 html, body {
@@ -107,7 +125,7 @@ html, body {
     margin-right: 4px;
 
     margin-left: 4px;
-    
+
 }
 
 main {
@@ -169,7 +187,6 @@ form {
 }
  
 input {
-
 
     background-color: #0d0d0d;
 

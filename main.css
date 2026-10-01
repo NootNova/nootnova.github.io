@@ -92,7 +92,7 @@ h2, h3, h4, h5, h6 {
 
 ol, li {
 
-        margin-left: 6px;
+    margin-left: 6px;
 
     color: #ffffff;
 
@@ -271,6 +271,23 @@ textarea::placeholder {
 
 }
 
+.list {
+
+    margin-left: 6px;
+
+    color: #ffffff;
+
+    text-shadow: 
+    -2px -2px #0d0d0d,
+    2px -2px #0d0d0d,
+    -2px 2px #0d0d0d,
+    2px 2px #0d0d0d;
+
+    font-size: 120%;
+
+    line-height: 150%;
+
+}
 /* shoved a image into the nav bar, sadly cant find away to move it how I'd truly like to */
 
 #navbar-horizontal {
